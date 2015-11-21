@@ -2,7 +2,7 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://njuzj12.github.io/
+url: http://njuzj12.github.io
 title: Keep Fat
 subtitle: I'm just kidding.
 author: jun
@@ -30,7 +30,7 @@ root: /
 permalink: /blog/:year/:month/:day/:title/
 source: source
 destination: public
-plugins: plugins
+plugins_dir : plugins
 code_dir: downloads/code
 category_dir: blog/categories
 markdown: rdiscount
